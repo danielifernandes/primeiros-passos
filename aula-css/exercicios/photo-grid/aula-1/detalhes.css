@@ -1,0 +1,42 @@
+
+body{
+    background: #f4f4f4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card {
+    width: 50%px;
+    background: #ffff;
+    display: flex ;
+    align-items: center;
+    padding: 10px ;
+}
+
+.card p {
+    font-size: 16px; 
+    padding-left: 10px;
+}
+
+.card img{
+    width: 50%;
+}
+
+.card button{
+    background: #ffff;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 5px;
+}
+   
+
+
